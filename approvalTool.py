@@ -2,7 +2,7 @@ import sys, pyodbc, ctypes
 from PyQt5.QtWidgets import QMainWindow, QApplication, QWidget, QFormLayout, QLabel, QButtonGroup, QRadioButton, QHBoxLayout, QTextEdit, QPushButton, QLineEdit, QMessageBox
 from PyQt5.QtGui import QIcon
 
-
+#testing.
 class Approval(QMainWindow):
     def __init__(self):
         super(Approval, self).__init__()
