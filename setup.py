@@ -5,7 +5,7 @@ exe=Executable(
      base="Win32Gui",
      icon="icon/PS_Icon.ico"
      )
-includefiles=['icon/', 'libEGL.dll', 'Expedited Approval.lnk']
+includefiles=['icon/', 'C:\Python34\Lib\site-packages\PyQt5\libEGL.dll', 'Expedited Approval.lnk']
 includes=['decimal', 'atexit']
 excludes=['Tkinter']
 packages=[]
